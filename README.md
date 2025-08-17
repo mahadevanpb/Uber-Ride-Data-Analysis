@@ -47,6 +47,7 @@ You can install the necessary libraries using pip:
 
 pip install pandas matplotlib seaborn numpy
 
+
 Running the Notebook
 Clone this repository to your local machine.
 
@@ -60,6 +61,6 @@ Open the Jupyter Notebook and run all the cells. The visualizations will be disp
 ├── updated_data.csv        # The preprocessed dataset used for analysis
 └── ride_hailing_analysis.ipynb  # The Jupyter Notebook with all the code and dashboards
 
-Dataset Source: https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard
+
 🤝 Contributions
 Feel free to open issues or submit pull requests for any improvements or new features.
